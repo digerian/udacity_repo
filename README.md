@@ -6,4 +6,7 @@ Common Github commands are:
   git add
   git commit -m 'some message'
   git push origin main
+  git checkout -b branch_name
+  git checkout branch_name
+  git branch -d branch_name
 
